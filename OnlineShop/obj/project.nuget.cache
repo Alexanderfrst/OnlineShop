@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "F9Y9XgtNF7E=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop\\OnlineShop.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Проект DAL несовместим с net9.0 (.NETCoreApp,Version=v9.0). Проект DAL поддерживает: net9.0-windows7.0 (.NETCoreApp,Version=v9.0)",
+      "libraryId": "DAL",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}
