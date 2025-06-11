@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\configurationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\configurationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\interfaces\\ipromocoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ipromocoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\onlineshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\configurationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\configurationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\interfaces\\ipromocoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ipromocoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
@@ -113,20 +113,20 @@
               "RelativeDocumentMoniker": "DAL\\OnlineShopDbContext.cs",
               "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\OnlineShopDbContext.cs",
               "RelativeToolTip": "DAL\\OnlineShopDbContext.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAUwDsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T13:59:28.874Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ConfigurationExtension.cs",
               "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\ConfigurationExtension.cs",
               "RelativeDocumentMoniker": "DAL\\ConfigurationExtension.cs",
               "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\ConfigurationExtension.cs",
               "RelativeToolTip": "DAL\\ConfigurationExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T13:54:26.066Z",
               "EditorCaption": ""
@@ -146,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\CategoryRepository.cs",
@@ -154,12 +154,11 @@
               "RelativeToolTip": "DAL\\Repositories\\CategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:01:53.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T14:01:53.539Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\ProductRepository.cs",
@@ -167,12 +166,11 @@
               "RelativeToolTip": "DAL\\Repositories\\ProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:01:28.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T14:01:28.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\UserRepository.cs",
@@ -180,12 +178,11 @@
               "RelativeToolTip": "DAL\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:00:57.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T14:00:57.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Repositories\\GenericRepository.cs",
@@ -193,12 +190,11 @@
               "RelativeToolTip": "DAL\\Repositories\\GenericRepository.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAzwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T13:58:54.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T13:58:54.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "IPromoCodeRepository.cs",
               "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IPromoCodeRepository.cs",
               "RelativeDocumentMoniker": "DAL\\Interfaces\\IPromoCodeRepository.cs",
@@ -219,8 +215,7 @@
               "RelativeToolTip": "DAL\\Interfaces\\IOrderRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:11:23.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T14:11:23.882Z"
             },
             {
               "$type": "Document",
@@ -232,8 +227,7 @@
               "RelativeToolTip": "DAL\\Interfaces\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:11:11.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T14:11:11.324Z"
             },
             {
               "$type": "Document",
@@ -245,8 +239,7 @@
               "RelativeToolTip": "DAL\\Interfaces\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:11:05.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T14:11:05.8Z"
             },
             {
               "$type": "Document",
@@ -258,8 +251,7 @@
               "RelativeToolTip": "DAL\\Interfaces\\ICategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:03:27.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T14:03:27.132Z"
             },
             {
               "$type": "Document",
@@ -271,8 +263,7 @@
               "RelativeToolTip": "DAL\\Interfaces\\IRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:10:56.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T14:10:56.898Z"
             },
             {
               "$type": "Document",
@@ -284,8 +275,7 @@
               "RelativeToolTip": "DAL\\Models\\OrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:07:59.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T14:07:59.627Z"
             },
             {
               "$type": "Document",
@@ -297,8 +287,7 @@
               "RelativeToolTip": "DAL\\Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:07:59.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T14:07:59.068Z"
             },
             {
               "$type": "Document",
@@ -310,8 +299,7 @@
               "RelativeToolTip": "DAL\\Models\\CartItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:07:58.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T14:07:58.483Z"
             },
             {
               "$type": "Document",
@@ -323,8 +311,7 @@
               "RelativeToolTip": "DAL\\Models\\Cart.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:07:57.162Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T14:07:57.162Z"
             },
             {
               "$type": "Document",
@@ -336,8 +323,7 @@
               "RelativeToolTip": "OnlineShop\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:04:53.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T14:04:53.007Z"
             },
             {
               "$type": "Document",
@@ -349,8 +335,7 @@
               "RelativeToolTip": "OnlineShop\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-11T13:05:19.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-11T13:05:19.466Z"
             }
           ]
         }
