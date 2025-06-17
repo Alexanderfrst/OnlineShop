@@ -2,7 +2,6 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using DAL.Data;
-using DAL.Interfaces;
 using DAL.Repositories;
 
 namespace DAL
@@ -21,6 +20,7 @@ namespace DAL
             services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddScoped<IOrderRepository, OrderRepository>();
             services.AddScoped<IPromoCodeRepository, PromoCodeRepository>();
+            services.AddScoped<ICartRepository, CartRepository>();
         }
     }
 }
