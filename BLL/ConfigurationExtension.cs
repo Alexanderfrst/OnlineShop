@@ -1,8 +1,8 @@
-﻿using AutoMapper;
-using Microsoft.Extensions.DependencyInjection;
+﻿using Microsoft.Extensions.DependencyInjection;
 using BLL.Interfaces;
-using BLL.Profiles;
 using BLL.Services;
+using Microsoft.Extensions.Configuration;
+using BLL.Profiles;
 
 namespace BLL
 {
@@ -10,16 +10,16 @@ namespace BLL
     {
         public static void ConfigureBLL(this IServiceCollection services)
         {
-            // AutoMapper
             services.AddAutoMapper(typeof(MappingProfile));
-
-            // Services
+            services.AddScoped<IAuthService, AuthService>();
             services.AddScoped<IUserService, UserService>();
             services.AddScoped<IProductService, ProductService>();
             services.AddScoped<ICategoryService, CategoryService>();
             services.AddScoped<ICartService, CartService>();
             services.AddScoped<IOrderService, OrderService>();
             services.AddScoped<IPromoCodeService, PromoCodeService>();
+            services.AddScoped<IFavoriteService, FavoriteService>();
+            services.AddScoped<IJwtService, JwtService>();
         }
     }
 }

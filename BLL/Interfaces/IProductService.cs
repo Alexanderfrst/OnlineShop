@@ -1,17 +1,25 @@
 ﻿using BLL.DTO;
-using System.Collections.Generic;
-using System.Threading.Tasks;
+
 
 namespace BLL.Interfaces
 {
     public interface IProductService
     {
-        Task<IEnumerable<ProductDto>> GetAllAsync();
-        Task<ProductDto> GetByIdAsync(int id);
-        Task<IEnumerable<ProductDto>> GetByCategoryAsync(int categoryId);
-        Task<IEnumerable<ProductDto>> SearchAsync(string term);
-        Task CreateAsync(ProductDto product);
-        Task UpdateAsync(ProductDto product);
-        Task DeleteAsync(int id);
+        Task<IEnumerable<ProductDto>> GetAllAsync(CancellationToken cancellationToken);
+        Task<ProductDto> GetByIdAsync(int id, CancellationToken cancellationToken);
+        Task<IEnumerable<ProductDto>> GetByCategoryAsync(int categoryId, CancellationToken cancellationToken);
+        Task<IEnumerable<ProductDto>> SearchAsync(string term, CancellationToken cancellationToken);
+        Task CreateAsync(ProductDto product, CancellationToken cancellationToken);
+        Task UpdateAsync(ProductDto product, CancellationToken cancellationToken);
+        Task DeleteAsync(int id, CancellationToken cancellationToken);
+
+        Task<IEnumerable<ProductDto>> GetFilteredAsync(
+            int? categoryId,
+            decimal? minPrice,
+            decimal? maxPrice,
+            bool? inStock,
+            string sortBy,
+            bool ascending,
+            CancellationToken cancellationToken);
     }
 }

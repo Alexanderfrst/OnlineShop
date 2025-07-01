@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace DAL.Models
+﻿namespace DAL.Models
 {
     public class Cart
     {

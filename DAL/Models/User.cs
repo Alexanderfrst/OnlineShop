@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace DAL.Models
+﻿namespace DAL.Models
 {
     public class User
     {
@@ -13,5 +10,7 @@ namespace DAL.Models
 
         public ICollection<Order> Orders { get; set; }
         public Cart Cart { get; set; }
+
+        public ICollection<Favorite> Favorites { get; set; }
     }
 }

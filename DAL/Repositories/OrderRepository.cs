@@ -1,11 +1,7 @@
-﻿using DAL.Data;
+﻿using Microsoft.EntityFrameworkCore;
+using DAL.Data;
 using DAL.Interfaces;
 using DAL.Models;
-using DAL.Repositories;
-using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace DAL.Repositories
 {
@@ -13,10 +9,15 @@ namespace DAL.Repositories
     {
         public OrderRepository(OnlineShopDbContext context) : base(context) { }
 
-        public async Task<IEnumerable<Order>> GetByUserAsync(int userId) =>
+        public async Task<IEnumerable<Order>> GetByUserAsync(int userId, CancellationToken cancellationToken) =>
             await _context.Orders
                           .Where(o => o.UserId == userId)
+                          .ToListAsync(cancellationToken);
+
+        public async Task<Order> GetDetailsAsync(int orderId, CancellationToken cancellationToken) =>
+            await _context.Orders
                           .Include(o => o.Items)
-                          .ToListAsync();
+                          .ThenInclude(oi => oi.Product)
+                          .SingleOrDefaultAsync(o => o.Id == orderId, cancellationToken);
     }
 }

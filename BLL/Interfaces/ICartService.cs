@@ -1,13 +1,12 @@
 ﻿using BLL.DTO;
-using System.Threading.Tasks;
 
 namespace BLL.Interfaces
 {
     public interface ICartService
     {
-        Task<CartDto> GetByUserIdAsync(int userId);
-        Task AddItemAsync(int userId, int productId, int quantity);
-        Task RemoveItemAsync(int userId, int itemId);
-        Task UpdateQuantityAsync(int userId, int itemId, int quantity);
+        Task<CartDto> GetByUserIdAsync(int? userId, CancellationToken cancellationToken);
+        Task AddItemAsync(int? userId, int productId, int quantity, CancellationToken cancellationToken);
+        Task RemoveItemAsync(int? userId, int itemId, CancellationToken cancellationToken);
+        Task UpdateQuantityAsync(int? userId, int itemId, int quantity, CancellationToken cancellationToken);
     }
 }

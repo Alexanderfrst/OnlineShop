@@ -1,14 +1,13 @@
 ﻿using BLL.DTO;
-using System.Threading.Tasks;
 
 namespace BLL.Interfaces
 {
     public interface IUserService
     {
-        Task<UserDto> GetByIdAsync(int id);
-        Task<UserDto> GetByEmailAsync(string email);
-        Task CreateAsync(UserDto user);
-        Task UpdateAsync(UserDto user);
-        Task DeleteAsync(int id);
+        Task<UserDto> GetByIdAsync(int id, CancellationToken cancellationToken);
+        Task<UserDto> GetByEmailAsync(string email, CancellationToken cancellationToken);
+        Task CreateAsync(UserDto user, CancellationToken cancellationToken);
+        Task UpdateAsync(UserDto user, CancellationToken cancellationToken);
+        Task DeleteAsync(int id, CancellationToken cancellationToken);
     }
 }

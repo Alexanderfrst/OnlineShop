@@ -1,37 +1,81 @@
-﻿using Microsoft.OpenApi.Models;
+﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
+using Microsoft.OpenApi.Models;
+using System.Text;
 using DAL;
 using BLL;
 
 var builder = WebApplication.CreateBuilder(args);
+var services = builder.Services;
+var configuration = builder.Configuration;
 
-builder.Services.ConfigureDAL(builder.Configuration.GetConnectionString("DefaultConnection"));
-builder.Services.ConfigureBLL();
+// Add DbContext
+services.ConfigureDAL(configuration.GetConnectionString("DefaultConnection"));
 
-builder.Services.AddControllers();
+// Add BLL
+services.ConfigureBLL();
 
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen(c =>
+// Add Authentication (JWT)
+var jwtKey = configuration["Jwt:Key"];
+var jwtIssuer = configuration["Jwt:Issuer"];
+
+services.AddAuthentication(options =>
 {
-    c.SwaggerDoc("v1", new OpenApiInfo
+    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+})
+.AddJwtBearer(options =>
+{
+    options.RequireHttpsMetadata = false;
+    options.SaveToken = true;
+    options.TokenValidationParameters = new TokenValidationParameters
     {
-        Title = "OnlineShop API",
-        Version = "v1",
-        Description = "REST API для интернет-магазина"
-    });
+        ValidateIssuer = true,
+        ValidateAudience = true,
+        ValidIssuer = jwtIssuer,
+        ValidAudience = jwtIssuer,
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtKey)),
+        ClockSkew = TimeSpan.Zero
+    };
+});
 
+// Add Controllers
+services.AddControllers();
+
+// Add Swagger
+services.AddSwaggerGen(c =>
+{
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "OnlineShop.API", Version = "v1" });
+    // JWT in Swagger
+    c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+    {
+        In = ParameterLocation.Header,
+        Description = "Введите 'Bearer' и ваш JWT",
+        Name = "Authorization",
+        Type = SecuritySchemeType.ApiKey
+    });
+    c.AddSecurityRequirement(new OpenApiSecurityRequirement
+    {
+        {
+            new OpenApiSecurityScheme
+            {
+                Reference = new OpenApiReference { Type = ReferenceType.SecurityScheme, Id = "Bearer" }
+            }, new string[] {}
+        }
+    });
 });
 
 var app = builder.Build();
 
 if (app.Environment.IsDevelopment())
 {
+    app.UseDeveloperExceptionPage();
     app.UseSwagger();
-    app.UseSwaggerUI(c =>
-    {
-        c.SwaggerEndpoint("/swagger/v1/swagger.json", "OnlineShop API V1");
-    });
+    app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "OnlineShop.API v1"));
 }
 
+app.UseMiddleware<OnlineShop.API.Middleware.ExceptionHandlingMiddleware>();
 app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();

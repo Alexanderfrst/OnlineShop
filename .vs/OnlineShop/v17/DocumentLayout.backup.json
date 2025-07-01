@@ -7,96 +7,184 @@
       "RelativeMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|solutionrelative:onlineshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\onlineshop.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|solutionrelative:onlineshop.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\onlineshop.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|solutionrelative:onlineshop.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\onlineshop.api\\onlineshop.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|solutionrelative:onlineshop.api\\onlineshop.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\configurationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\configurationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\onlineshop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|solutionrelative:onlineshop.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\onlineshop.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|solutionrelative:onlineshop.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\onlineshop.api\\models\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|solutionrelative:onlineshop.api\\models\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\onlineshop.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|solutionrelative:onlineshop.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\onlineshop.api\\controllers\\promocodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|solutionrelative:onlineshop.api\\controllers\\promocodescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\onlineshop.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|solutionrelative:onlineshop.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\onlineshop.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|solutionrelative:onlineshop.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\onlineshop.api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|solutionrelative:onlineshop.api\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\onlineshop.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|solutionrelative:onlineshop.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\configurationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\configurationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\onlineshop.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|solutionrelative:onlineshop.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\services\\promocodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\promocodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\interfaces\\ipromocodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\ipromocodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\models\\promocode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\models\\promocode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\repositories\\promocoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\promocoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\onlineshop.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|solutionrelative:onlineshop.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\services\\favoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\favoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\services\\promocodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\promocodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\interfaces\\ifavoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\ifavoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\interfaces\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\interfaces\\ipromocodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\ipromocodeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\dto\\favoritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\favoritedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\dto\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\dto\\promocodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -107,20 +195,36 @@
       "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\dto\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -131,12 +235,103 @@
       "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\configurationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\configurationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D85D180C-F855-4134-905A-70C8B4F56D22}|OnlineShop\\OnlineShop.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\onlineshop\\onlineshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D85D180C-F855-4134-905A-70C8B4F56D22}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\onlineshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\onlineshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\onlineshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\repositories\\favoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\favoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\repositories\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\orderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\interfaces\\ifavoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ifavoriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\interfaces\\ipromocoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ipromocoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\interfaces\\iorderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iorderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB44995D-F346-4F41-91C0-96EB3FB8C6B6}|OnlineShop.Tests\\OnlineShop.Tests.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\onlineshop.tests\\tests\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB44995D-F346-4F41-91C0-96EB3FB8C6B6}|OnlineShop.Tests\\OnlineShop.Tests.csproj|solutionrelative:onlineshop.tests\\tests\\authservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Iam\\Desktop\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\onlineshop.api\\onlineshop.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|solutionrelative:onlineshop.api\\onlineshop.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB44995D-F346-4F41-91C0-96EB3FB8C6B6}|OnlineShop.Tests\\OnlineShop.Tests.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\onlineshop.tests\\onlineshop.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB44995D-F346-4F41-91C0-96EB3FB8C6B6}|OnlineShop.Tests\\OnlineShop.Tests.csproj|solutionrelative:onlineshop.tests\\onlineshop.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB44995D-F346-4F41-91C0-96EB3FB8C6B6}|OnlineShop.Tests\\OnlineShop.Tests.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\onlineshop.tests\\onlineshop.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EB44995D-F346-4F41-91C0-96EB3FB8C6B6}|OnlineShop.Tests\\OnlineShop.Tests.csproj|solutionrelative:onlineshop.tests\\onlineshop.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\onlineshop.api\\onlineshop.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|solutionrelative:onlineshop.api\\onlineshop.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C609FB1B-EE26-4A67-976C-FBBEF5B982A0}|OnlineShop.API\\OnlineShop.API.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\onlineshop.api\\onlineshop.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -148,70 +343,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\bll\\bll.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{88F0A42A-22DF-44E4-B20F-2C14CC648A2C}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D85D180C-F855-4134-905A-70C8B4F56D22}|OnlineShop\\OnlineShop.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\onlineshop\\onlineshop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{D85D180C-F855-4134-905A-70C8B4F56D22}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\onlineshop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\onlineshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\onlineshopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\interfaces\\ipromocoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ipromocoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\repositories\\promocoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\promocoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\dal\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{656E5AF0-217B-4220-82C9-8F96DBF77E99}|DAL\\DAL.csproj|solutionrelative:dal\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D85D180C-F855-4134-905A-70C8B4F56D22}|OnlineShop\\OnlineShop.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\onlineshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D85D180C-F855-4134-905A-70C8B4F56D22}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D85D180C-F855-4134-905A-70C8B4F56D22}|OnlineShop\\OnlineShop.csproj|c:\\users\\iam\\desktop\\practice\\onlineshop\\onlineshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D85D180C-F855-4134-905A-70C8B4F56D22}|OnlineShop\\OnlineShop.csproj|solutionrelative:onlineshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -221,119 +352,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "OnlineShop.API\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "OnlineShop.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-17T10:41:48.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "OnlineShop.API\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "OnlineShop.API\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:41:39.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OnlineShop.API.http",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\OnlineShop.API.http",
-              "RelativeDocumentMoniker": "OnlineShop.API\\OnlineShop.API.http",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\OnlineShop.API.http",
-              "RelativeToolTip": "OnlineShop.API\\OnlineShop.API.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-06-17T10:39:49.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:01:53.539Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T13:58:54.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ConfigurationExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\ConfigurationExtension.cs",
-              "RelativeDocumentMoniker": "BLL\\ConfigurationExtension.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\ConfigurationExtension.cs",
-              "RelativeToolTip": "BLL\\ConfigurationExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-15T16:29:54.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CartService.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\CartService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\CartService.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\CartService.cs",
-              "RelativeToolTip": "BLL\\Services\\CartService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:22:33.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\OrderService.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\OrderService.cs",
-              "RelativeToolTip": "BLL\\Services\\OrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:22:55.261Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -343,530 +366,235 @@
               "RelativeDocumentMoniker": "OnlineShop.API\\Program.cs",
               "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\Program.cs",
               "RelativeToolTip": "OnlineShop.API\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T08:33:23.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineShop.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\appsettings.json",
+              "RelativeToolTip": "OnlineShop.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T08:37:22.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ICartRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\ICartRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\ICartRepository.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\ICartRepository.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\ICartRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "OnlineShop.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "OnlineShop.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:31:20.937Z",
+              "WhenOpened": "2025-06-20T08:24:31.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OnlineShop.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OnlineShop.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:25:20.936Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ConfigurationExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\ConfigurationExtension.cs",
-              "RelativeDocumentMoniker": "DAL\\ConfigurationExtension.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\ConfigurationExtension.cs",
-              "RelativeToolTip": "DAL\\ConfigurationExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Title": "PromoCodesController.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\Controllers\\PromoCodesController.cs",
+              "RelativeDocumentMoniker": "OnlineShop.API\\Controllers\\PromoCodesController.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\Controllers\\PromoCodesController.cs",
+              "RelativeToolTip": "OnlineShop.API\\Controllers\\PromoCodesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T13:54:26.066Z",
+              "WhenOpened": "2025-06-20T08:25:40.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\OrderService.cs",
+              "RelativeToolTip": "BLL\\Services\\OrderService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:22:55.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\AuthService.cs*",
+              "RelativeToolTip": "BLL\\Services\\AuthService.cs*",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAswKYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:51:34.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "OnlineShop.API\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\Controllers\\CartController.cs",
+              "RelativeToolTip": "OnlineShop.API\\Controllers\\CartController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:24:57.712Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "CartRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\CartRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\CartRepository.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\CartRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\CartRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "OnlineShop.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "OnlineShop.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:32:07.138Z",
+              "WhenOpened": "2025-06-20T08:24:05.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigurationExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\ConfigurationExtension.cs",
+              "RelativeDocumentMoniker": "BLL\\ConfigurationExtension.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\ConfigurationExtension.cs*",
+              "RelativeToolTip": "BLL\\ConfigurationExtension.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:29:54.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "OnlineShop.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "OnlineShop.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:21:15.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\Models\\CreateOrderRequest.cs",
+              "RelativeDocumentMoniker": "OnlineShop.API\\Models\\CreateOrderRequest.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\Models\\CreateOrderRequest.cs",
+              "RelativeToolTip": "OnlineShop.API\\Models\\CreateOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T09:04:31.605Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "OnlineShop.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "OnlineShop.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:22:39.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\CartService.cs",
+              "RelativeToolTip": "BLL\\Services\\CartService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDIAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:22:33.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "OnlineShop.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "OnlineShop.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:08:32.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "IOrderService.cs",
               "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\IOrderService.cs",
               "RelativeDocumentMoniker": "BLL\\Interfaces\\IOrderService.cs",
               "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\IOrderService.cs",
               "RelativeToolTip": "BLL\\Interfaces\\IOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T10:16:37.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PromoCodeService.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\PromoCodeService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\PromoCodeService.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\PromoCodeService.cs",
-              "RelativeToolTip": "BLL\\Services\\PromoCodeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:23:03.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\OrderRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\OrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:02:13.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\CategoryService.cs",
-              "RelativeToolTip": "BLL\\Services\\CategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:22:47.24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\UserService.cs",
-              "RelativeToolTip": "BLL\\Services\\UserService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:18:18.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Profiles\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "BLL\\Profiles\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Profiles\\MappingProfile.cs",
-              "RelativeToolTip": "BLL\\Profiles\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:17:08.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\ProductService.cs",
               "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\ProductService.cs",
               "RelativeToolTip": "BLL\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwDAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T10:18:32.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IPromoCodeService.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\IPromoCodeService.cs",
-              "RelativeDocumentMoniker": "BLL\\Interfaces\\IPromoCodeService.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\IPromoCodeService.cs",
-              "RelativeToolTip": "BLL\\Interfaces\\IPromoCodeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:16:49.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ICartService.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\ICartService.cs",
-              "RelativeDocumentMoniker": "BLL\\Interfaces\\ICartService.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\ICartService.cs",
-              "RelativeToolTip": "BLL\\Interfaces\\ICartService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:16:26.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "BLL\\Interfaces\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\ICategoryService.cs",
-              "RelativeToolTip": "BLL\\Interfaces\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:16:14.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\IProductService.cs",
-              "RelativeDocumentMoniker": "BLL\\Interfaces\\IProductService.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\IProductService.cs",
-              "RelativeToolTip": "BLL\\Interfaces\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:16:00.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "BLL\\Interfaces\\IUserService.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "BLL\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:15:46.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "PromoCodeDto.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\PromoCodeDto.cs",
-              "RelativeDocumentMoniker": "BLL\\DTO\\PromoCodeDto.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\PromoCodeDto.cs",
-              "RelativeToolTip": "BLL\\DTO\\PromoCodeDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:15:30.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "OrderItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\OrderItemDto.cs",
-              "RelativeDocumentMoniker": "BLL\\DTO\\OrderItemDto.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\OrderItemDto.cs",
-              "RelativeToolTip": "BLL\\DTO\\OrderItemDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:15:11.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 17,
               "Title": "OrderDto.cs",
               "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\OrderDto.cs",
               "RelativeDocumentMoniker": "BLL\\DTO\\OrderDto.cs",
               "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\OrderDto.cs",
               "RelativeToolTip": "BLL\\DTO\\OrderDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T10:15:00.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "CartItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\CartItemDto.cs",
-              "RelativeDocumentMoniker": "BLL\\DTO\\CartItemDto.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\CartItemDto.cs",
-              "RelativeToolTip": "BLL\\DTO\\CartItemDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:14:42.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "CartDto.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\CartDto.cs",
-              "RelativeDocumentMoniker": "BLL\\DTO\\CartDto.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\CartDto.cs",
-              "RelativeToolTip": "BLL\\DTO\\CartDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:14:22.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\ProductDto.cs",
-              "RelativeDocumentMoniker": "BLL\\DTO\\ProductDto.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\ProductDto.cs",
-              "RelativeToolTip": "BLL\\DTO\\ProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:14:07.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "CategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\CategoryDto.cs",
-              "RelativeDocumentMoniker": "BLL\\DTO\\CategoryDto.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\CategoryDto.cs",
-              "RelativeToolTip": "BLL\\DTO\\CategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:13:33.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "UserDto.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\UserDto.cs",
-              "RelativeDocumentMoniker": "BLL\\DTO\\UserDto.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\UserDto.cs",
-              "RelativeToolTip": "BLL\\DTO\\UserDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T10:13:18.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "D:\\Microsoft\\Microsoft Visual Studio\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "D:\\Microsoft\\Microsoft Visual Studio\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAE8HAAAAAAAAAADgv2AHAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-06-16T08:30:50.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "OnlineShop.API.csproj",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\OnlineShop.API.csproj",
-              "RelativeDocumentMoniker": "OnlineShop.API\\OnlineShop.API.csproj",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\OnlineShop.API.csproj",
-              "RelativeToolTip": "OnlineShop.API\\OnlineShop.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-16T08:30:53.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "OnlineShop",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop\\OnlineShop.csproj",
-              "RelativeDocumentMoniker": "OnlineShop\\OnlineShop.csproj",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop\\OnlineShop.csproj",
-              "RelativeToolTip": "OnlineShop\\OnlineShop.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-16T08:31:56.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "OnlineShop.csproj",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop\\OnlineShop.csproj",
-              "RelativeDocumentMoniker": "OnlineShop\\OnlineShop.csproj",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop\\OnlineShop.csproj",
-              "RelativeToolTip": "OnlineShop\\OnlineShop.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-16T08:29:49.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "BLL",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\BLL.csproj",
-              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\BLL.csproj",
-              "RelativeToolTip": "BLL\\BLL.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-16T08:29:28.667Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Models\\Cart.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\Cart.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Models\\Cart.cs",
-              "RelativeToolTip": "DAL\\Models\\Cart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:07:57.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "PromoCodeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\PromoCodeRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\PromoCodeRepository.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\PromoCodeRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\PromoCodeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:02:29.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "OnlineShopDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\OnlineShopDbContext.cs",
-              "RelativeDocumentMoniker": "DAL\\OnlineShopDbContext.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\OnlineShopDbContext.cs",
-              "RelativeToolTip": "DAL\\OnlineShopDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T13:59:28.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:01:28.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "DAL\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:00:57.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "IPromoCodeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IPromoCodeRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\IPromoCodeRepository.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IPromoCodeRepository.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\IPromoCodeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:11:28.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\IOrderRepository.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IOrderRepository.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\IOrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:11:23.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IProductRepository.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:11:11.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:11:05.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\ICategoryRepository.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:03:27.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:10:56.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "DAL\\Models\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Models\\OrderItem.cs",
-              "RelativeToolTip": "DAL\\Models\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:07:59.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 18,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Models\\Order.cs",
               "RelativeDocumentMoniker": "DAL\\Models\\Order.cs",
@@ -879,7 +607,449 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\ICartService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\ICartService.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\ICartService.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\ICartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:16:26.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\CartDto.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\CartDto.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\CartDto.cs",
+              "RelativeToolTip": "BLL\\DTO\\CartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:14:22.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:11:11.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:01:28.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:16:00.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Models\\Review.cs",
+              "RelativeToolTip": "DAL\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:50:20Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PromoCode.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Models\\PromoCode.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\PromoCode.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Models\\PromoCode.cs",
+              "RelativeToolTip": "DAL\\Models\\PromoCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:03:28.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\ReviewRepository.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\ReviewRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\ReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:53:58.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PromoCodeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\PromoCodeRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\PromoCodeRepository.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\PromoCodeRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\PromoCodeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:02:29.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\ProductDto.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\ProductDto.cs",
+              "RelativeToolTip": "BLL\\DTO\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:14:07.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OnlineShop.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OnlineShop.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-17T10:41:48.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\JwtService.cs",
+              "RelativeToolTip": "BLL\\Services\\JwtService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAywC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:25:13.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ReviewService.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\ReviewService.cs",
+              "RelativeToolTip": "BLL\\Services\\ReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:09:38.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA3wDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:18:18.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FavoriteService.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\FavoriteService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\FavoriteService.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\FavoriteService.cs",
+              "RelativeToolTip": "BLL\\Services\\FavoriteService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:10:39.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PromoCodeService.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\PromoCodeService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\PromoCodeService.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\PromoCodeService.cs",
+              "RelativeToolTip": "BLL\\Services\\PromoCodeService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:23:03.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Services\\CategoryService.cs",
+              "RelativeToolTip": "BLL\\Services\\CategoryService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA3wDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:22:47.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "BLL\\Profiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "BLL\\Profiles\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:17:08.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\IJwtService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\IJwtService.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\IJwtService.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:24:48.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IFavoriteService.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\IFavoriteService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\IFavoriteService.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\IFavoriteService.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\IFavoriteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:07:51.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\IReviewService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\IReviewService.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\IReviewService.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\IReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:07:32.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IPromoCodeService.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\IPromoCodeService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\IPromoCodeService.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\IPromoCodeService.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\IPromoCodeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:16:49.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:16:14.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:15:46.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "BLL\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "BLL\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:51:09.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "FavoriteDto.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\FavoriteDto.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\FavoriteDto.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\FavoriteDto.cs",
+              "RelativeToolTip": "BLL\\DTO\\FavoriteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:05:06.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\ReviewDto.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\ReviewDto.cs",
+              "RelativeToolTip": "BLL\\DTO\\ReviewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:04:41.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PromoCodeDto.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\PromoCodeDto.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\PromoCodeDto.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\PromoCodeDto.cs",
+              "RelativeToolTip": "BLL\\DTO\\PromoCodeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:15:30.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\OrderItemDto.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\OrderItemDto.cs",
+              "RelativeToolTip": "BLL\\DTO\\OrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:15:11.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Models\\Product.cs",
+              "RelativeToolTip": "DAL\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:03:19.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Models\\ProductImage.cs",
+              "RelativeToolTip": "DAL\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:03:25.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 50,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Models\\OrderItem.cs",
+              "RelativeToolTip": "DAL\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:07:59.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Models\\Favorite.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Favorite.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Models\\Favorite.cs",
+              "RelativeToolTip": "DAL\\Models\\Favorite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:50:40.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Models\\Category.cs",
+              "RelativeToolTip": "DAL\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:03:04.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
               "Title": "CartItem.cs",
               "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Models\\CartItem.cs",
               "RelativeDocumentMoniker": "DAL\\Models\\CartItem.cs",
@@ -892,28 +1062,411 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop\\Program.cs",
-              "RelativeDocumentMoniker": "OnlineShop\\Program.cs",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop\\Program.cs",
-              "RelativeToolTip": "OnlineShop\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "DocumentIndex": 54,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Models\\Cart.cs",
+              "RelativeToolTip": "DAL\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T14:04:53.007Z",
+              "WhenOpened": "2025-06-11T14:07:57.162Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop\\appsettings.json",
-              "RelativeDocumentMoniker": "OnlineShop\\appsettings.json",
-              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop\\appsettings.json",
-              "RelativeToolTip": "OnlineShop\\appsettings.json",
+              "DocumentIndex": 55,
+              "Title": "CartItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\CartItemDto.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\CartItemDto.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\CartItemDto.cs",
+              "RelativeToolTip": "BLL\\DTO\\CartItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:14:42.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\CategoryDto.cs",
+              "RelativeToolTip": "BLL\\DTO\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:13:33.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\DTO\\UserDto.cs",
+              "RelativeToolTip": "BLL\\DTO\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:13:18.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ConfigurationExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\ConfigurationExtension.cs",
+              "RelativeDocumentMoniker": "DAL\\ConfigurationExtension.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\ConfigurationExtension.cs",
+              "RelativeToolTip": "DAL\\ConfigurationExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:54:26.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "OnlineShopDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\OnlineShopDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\OnlineShopDbContext.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\OnlineShopDbContext.cs",
+              "RelativeToolTip": "DAL\\OnlineShopDbContext.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T13:59:28.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "FavoriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\FavoriteRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\FavoriteRepository.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\FavoriteRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\FavoriteRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:54:11.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "OrderItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\OrderItemRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\OrderItemRepository.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\OrderItemRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\OrderItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T20:34:44.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:02:13.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:01:53.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:00:57.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\CartRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\CartRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:32:07.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T12:22:01.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IFavoriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IFavoriteRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IFavoriteRepository.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IFavoriteRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IFavoriteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:52:23.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IReviewRepository.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IReviewRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:52:02.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\ICartRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\ICartRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-11T13:05:19.466Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:31:20.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "IPromoCodeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IPromoCodeRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IPromoCodeRepository.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IPromoCodeRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IPromoCodeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:11:28.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IOrderItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IOrderItemRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IOrderItemRepository.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IOrderItemRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IOrderItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T20:34:25.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:11:23.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:03:27.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:11:05.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T14:10:56.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\DAL\\Models\\User.cs",
+              "RelativeToolTip": "DAL\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:03:33.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "AuthServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.Tests\\Tests\\AuthServiceTests.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Tests\\Tests\\AuthServiceTests.cs",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.Tests\\Tests\\AuthServiceTests.cs",
+              "RelativeToolTip": "OnlineShop.Tests\\Tests\\AuthServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T08:03:30.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "..\\..\\SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\SQLQuery1.sql",
+              "RelativeToolTip": "..\\..\\SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-30T12:57:24.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "OnlineShop.API",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\OnlineShop.API.csproj",
+              "RelativeDocumentMoniker": "OnlineShop.API\\OnlineShop.API.csproj",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\OnlineShop.API.csproj",
+              "RelativeToolTip": "OnlineShop.API\\OnlineShop.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-20T08:18:53.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "OnlineShop.Tests",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.Tests\\OnlineShop.Tests.csproj",
+              "RelativeDocumentMoniker": "OnlineShop.Tests\\OnlineShop.Tests.csproj",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.Tests\\OnlineShop.Tests.csproj",
+              "RelativeToolTip": "OnlineShop.Tests\\OnlineShop.Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-20T08:04:33.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "OnlineShop.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.Tests\\OnlineShop.Tests.csproj",
+              "RelativeDocumentMoniker": "OnlineShop.Tests\\OnlineShop.Tests.csproj",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.Tests\\OnlineShop.Tests.csproj",
+              "RelativeToolTip": "OnlineShop.Tests\\OnlineShop.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-20T08:02:46.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "OnlineShop.API.http",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\OnlineShop.API.http",
+              "RelativeDocumentMoniker": "OnlineShop.API\\OnlineShop.API.http",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\OnlineShop.API.http",
+              "RelativeToolTip": "OnlineShop.API\\OnlineShop.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-17T10:39:49.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "D:\\Microsoft\\Microsoft Visual Studio\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "D:\\Microsoft\\Microsoft Visual Studio\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAE8HAAAAAAAAAADgv2AHAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-16T08:30:50.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "OnlineShop.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\OnlineShop.API.csproj",
+              "RelativeDocumentMoniker": "OnlineShop.API\\OnlineShop.API.csproj",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\OnlineShop.API\\OnlineShop.API.csproj",
+              "RelativeToolTip": "OnlineShop.API\\OnlineShop.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-16T08:30:53.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "BLL",
+              "DocumentMoniker": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
+              "ToolTip": "C:\\Users\\Iam\\Desktop\\Practice\\OnlineShop\\BLL\\BLL.csproj",
+              "RelativeToolTip": "BLL\\BLL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-16T08:29:28.667Z",
               "EditorCaption": ""
             }
           ]

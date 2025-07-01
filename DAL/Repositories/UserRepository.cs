@@ -1,9 +1,7 @@
-﻿using DAL.Data;
+﻿using Microsoft.EntityFrameworkCore;
+using DAL.Data;
 using DAL.Interfaces;
 using DAL.Models;
-using DAL.Repositories;
-using Microsoft.EntityFrameworkCore;
-using System.Threading.Tasks;
 
 namespace DAL.Repositories
 {
@@ -11,7 +9,8 @@ namespace DAL.Repositories
     {
         public UserRepository(OnlineShopDbContext context) : base(context) { }
 
-        public async Task<User> GetByEmailAsync(string email) =>
-            await _context.Users.SingleOrDefaultAsync(u => u.Email == email);
+        public async Task<User> GetByEmailAsync(string email, CancellationToken cancellationToken) =>
+            await _context.Users
+                          .SingleOrDefaultAsync(u => u.Email == email, cancellationToken);
     }
 }

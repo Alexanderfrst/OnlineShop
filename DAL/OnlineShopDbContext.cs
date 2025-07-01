@@ -1,7 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using DAL.Models;
-using System.Collections.Generic;
-using System.Reflection.Emit;
 
 namespace DAL.Data
 {
@@ -21,7 +19,8 @@ namespace DAL.Data
         public DbSet<Order> Orders { get; set; }
         public DbSet<OrderItem> OrderItems { get; set; }
         public DbSet<PromoCode> PromoCodes { get; set; }
-
+        public DbSet<Review> Reviews { get; set; }
+        public DbSet<Favorite> Favorites { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Category>()
@@ -55,6 +54,20 @@ namespace DAL.Data
                 .HasForeignKey(oi => oi.ProductId);
 
             base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<Favorite>()
+               .HasKey(f => new { f.UserId, f.ProductId });
+
+            modelBuilder.Entity<Favorite>()
+                .HasOne(f => f.Product)
+                .WithMany(p => p.Favorites)
+                .HasForeignKey(f => f.ProductId);
+
+            modelBuilder.Entity<Favorite>()
+                .HasOne(f => f.User)
+                .WithMany(u => u.Favorites) 
+                .HasForeignKey(f => f.UserId);
+
         }
     }
 }

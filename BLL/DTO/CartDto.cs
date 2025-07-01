@@ -1,11 +1,9 @@
-﻿using System.Collections.Generic;
-
-namespace BLL.DTO
+﻿namespace BLL.DTO
 {
-    public class CartDto
-    {
-        public int Id { get; set; }
-        public UserDto User { get; set; }
-        public List<CartItemDto> Items { get; set; }
-    }
+    public record CartDto(
+        int Id,
+        UserDto User,
+        List<CartItemDto> Items,
+        decimal TotalPrice   
+    );
 }

@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace DAL.Models
+﻿namespace DAL.Models
 {
     public class Product
     {
@@ -15,5 +13,7 @@ namespace DAL.Models
         public ICollection<ProductImage> Images { get; set; }
         public ICollection<CartItem> CartItems { get; set; }
         public ICollection<OrderItem> OrderItems { get; set; }
+
+        public ICollection<Favorite> Favorites { get; set; }
     }
 }

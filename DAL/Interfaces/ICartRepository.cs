@@ -1,13 +1,12 @@
 ﻿using DAL.Models;
-using System.Threading.Tasks;
 
 namespace DAL.Interfaces
 {
     public interface ICartRepository : IRepository<Cart>
     {
-        Task<Cart> GetByUserAsync(int userId);
-        Task AddItemAsync(int userId, int productId, int quantity);
-        Task RemoveItemAsync(int itemId);
-        Task UpdateQuantityAsync(int itemId, int quantity);
+        Task<Cart> GetByUserAsync(int userId, CancellationToken cancellationToken);
+        Task AddItemAsync(int userId, int productId, int quantity, CancellationToken cancellationToken);
+        Task RemoveItemAsync(int itemId, CancellationToken cancellationToken);
+        Task UpdateQuantityAsync(int itemId, int quantity, CancellationToken cancellationToken);
     }
 }

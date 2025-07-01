@@ -1,7 +1,6 @@
 ﻿using AutoMapper;
 using BLL.DTO;
 using DAL.Models;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace BLL.Profiles
 {
@@ -17,6 +16,8 @@ namespace BLL.Profiles
             CreateMap<Order, OrderDto>().ReverseMap();
             CreateMap<OrderItem, OrderItemDto>().ReverseMap();
             CreateMap<PromoCode, PromoCodeDto>().ReverseMap();
+            CreateMap<Review, ReviewDto>().ReverseMap();
+            CreateMap<Favorite, FavoriteDto>().ReverseMap();
         }
     }
 }

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rwN15MQoBYprNs7xuKuCzRC2MnmJoyc2Tqef5mRlWfY=",
+  "Source": "OnlineShop.API",
+  "BasePath": "_content/OnlineShop.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

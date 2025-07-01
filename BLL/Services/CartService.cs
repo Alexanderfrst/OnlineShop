@@ -1,5 +1,4 @@
-﻿using System.Threading.Tasks;
-using AutoMapper;
+﻿using AutoMapper;
 using BLL.DTO;
 using BLL.Interfaces;
 using DAL.Interfaces;
@@ -17,16 +16,41 @@ namespace BLL.Services
             _mapper = mapper;
         }
 
-        public async Task<CartDto> GetByUserIdAsync(int userId) =>
-            _mapper.Map<CartDto>(await _cartRepo.GetByUserAsync(userId));
+        public async Task<CartDto> GetByUserIdAsync(int? userId, CancellationToken cancellationToken)
+        {
+            var uid = userId.GetValueOrDefault();
+            var cart = await _cartRepo.GetByUserAsync(uid, cancellationToken);
 
-        public async Task AddItemAsync(int userId, int productId, int quantity) =>
-            await _cartRepo.AddItemAsync(userId, productId, quantity);
+            if (cart == null)
+                return new CartDto(0, null, new List<CartItemDto>(), 0m);
 
-        public async Task RemoveItemAsync(int userId, int itemId) =>
-            await _cartRepo.RemoveItemAsync(itemId);
+            var userDto = _mapper.Map<UserDto>(cart.User);
+            var itemsDto = _mapper.Map<List<CartItemDto>>(cart.Items);
 
-        public async Task UpdateQuantityAsync(int userId, int itemId, int quantity) =>
-            await _cartRepo.UpdateQuantityAsync(itemId, quantity);
+            var totalPrice = itemsDto.Sum(i => i.Product.Price * i.Quantity);
+
+            return new CartDto(
+                cart.Id,
+                userDto,
+                itemsDto,
+                totalPrice
+            );
+        }
+
+        public async Task AddItemAsync(int? userId, int productId, int quantity, CancellationToken cancellationToken)
+        {
+            var uid = userId.GetValueOrDefault();
+            await _cartRepo.AddItemAsync(uid, productId, quantity, cancellationToken);
+        }
+
+        public async Task RemoveItemAsync(int? userId, int itemId, CancellationToken cancellationToken)
+        {
+            await _cartRepo.RemoveItemAsync(itemId, cancellationToken);
+        }
+
+        public async Task UpdateQuantityAsync(int? userId, int itemId, int quantity, CancellationToken cancellationToken)
+        {
+            await _cartRepo.UpdateQuantityAsync(itemId, quantity, cancellationToken);
+        }
     }
 }

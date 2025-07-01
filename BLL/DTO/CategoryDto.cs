@@ -1,9 +1,4 @@
 ﻿namespace BLL.DTO
 {
-    public class CategoryDto
-    {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public int? ParentCategoryId { get; set; }
-    }
+    public record CategoryDto(int Id, string Name, int? ParentCategoryId);
 }
